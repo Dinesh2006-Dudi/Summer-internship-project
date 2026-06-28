@@ -125,6 +125,3 @@ streamlit run app.py
 
 ---
 
-## 👤 Author
-
-Built by Dinesh as part of a summer internship project — B.Tech, Artificial Intelligence and Machine Learning, Aditya University.
